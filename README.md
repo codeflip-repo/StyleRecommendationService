@@ -1,3 +1,7 @@
+# THIS IS AN ENTIRELY AI GENERATED CODE PACKAGE, USE WITH CAUTION
+
+# Provide a openweathermap API Key in application.properties before running
+
 # Style Recommendation Service
 This application provides style recommendations based on current weather conditions for a given location.
 Features
